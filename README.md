@@ -156,7 +156,7 @@ Sometimes, you just need someone who stays.*
 
 ## How to use Thera Bot
 Instructions:
-- Dependencies: use pip command and install these modules in your preferred python IDE(recommended python 3.14.2)
+- Dependencies: use pip install command and install these modules in your preferred python IDE(recommended python 3.14.2)
 - openai,streamlit,dotenv,sklearn,numpy
 - Open terminal and write:python -m streamlit run app.py
 - Speak to thera
