@@ -156,6 +156,7 @@ Sometimes, you just need someone who stays.*
 
 ## How to use Thera Bot
 Instructions:
+- Enter your openai api key in the .env
 - Dependencies: use pip install command and install these modules in your preferred python IDE(recommended python 3.14.2)
 - openai,streamlit,dotenv,scikit-learn,numpy
 - Open terminal and write:python -m streamlit run app.py
