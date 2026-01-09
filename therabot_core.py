@@ -25,7 +25,7 @@ Rules:
 
 CRISIS_WORDS = [
     "suicide", "kill myself", "end my life",
-    "self harm", "cut myself", "no reason to live"
+    "self harm", "cut myself", "no reason to live","die"
 ]
 
 def crisis_detected(text):
@@ -109,3 +109,7 @@ def get_response(conversation, user_input):
         save_memory(memory)
 
     return reply
+
+
+    return reply
+
